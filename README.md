@@ -1,2 +1,2 @@
-# -simple_html_writer
+# simple_html_writer
 A simple HTML writer
